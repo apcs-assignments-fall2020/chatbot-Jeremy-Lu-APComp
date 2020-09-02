@@ -1,3 +1,4 @@
+*/
 default: run
 
 run:
@@ -10,3 +11,4 @@ test:
 	./gradlew clean test
 
 tests: test
+/*
